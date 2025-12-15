@@ -1,2 +1,3 @@
-# My-SQL-DWH-Project
-Building a modern DWH with SQL Server
+# DWH and Analytics Project 
+
+Welcome to my DWH project
