@@ -22,9 +22,10 @@ Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 
-# 😎 About me 
+# ✨ About me 
 
 Data Engineer | Dentist-Turned Data Professional | Building Scalable Data Pipelines for Healthcare & Fintech | Python • SQL • Data bricks • ETL | Multilingual (4 Languages)
 
 www.linkedin.com/in/ahmedyasser007
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ahmedyasser007)
 
