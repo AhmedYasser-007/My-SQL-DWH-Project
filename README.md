@@ -26,7 +26,8 @@ Documentation: Provide clear documentation of the data model to support both bus
 
 Data Engineer | Dentist-Turned Data Professional | Building Scalable Data Pipelines for Healthcare & Fintech | Python • SQL • Data bricks • ETL | Multilingual (4 Languages)
 
-www.linkedin.com/in/ahmedyasser007
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmedyasser007/)
+Let's stay in touch! Feel free to connect with me on the following platform:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedyasser007)
 
 
